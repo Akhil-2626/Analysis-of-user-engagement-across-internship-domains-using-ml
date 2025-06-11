@@ -1,0 +1,101 @@
+student_id,internship_domain,application_date,participation_status
+S100,Web Development,21-02-2019,Not Participated
+S101,Web Development,24-05-2020,Participated
+S102,Web Development,08-03-2024,Participated
+S103,AI Research,04-11-2024,Participated
+S104,Cybersecurity,18-02-2023,Not Participated
+S105,Web Development,14-01-2019,Participated
+S106,Cybersecurity,03-04-2020,Not Participated
+S107,Web Development,17-10-2019,Participated
+S108,Machine Learning,18-04-2024,Participated
+S109,Cybersecurity,21-12-2023,Not Participated
+S110,Web Development,14-04-2022,Not Participated
+S111,Data Science,19-05-2019,Participated
+S112,Cybersecurity,25-03-2024,Not Participated
+S113,AI Research,14-06-2021,Not Participated
+S114,Data Science,05-04-2021,Participated
+S115,Data Science,04-02-2022,Not Participated
+S116,Cloud Computing,04-06-2021,Participated
+S117,AI Research,20-05-2019,Participated
+S118,Data Science,24-08-2023,Not Participated
+S119,Data Science,04-07-2019,Participated
+S120,Web Development,18-05-2024,Participated
+S121,Web Development,20-06-2023,Participated
+S122,Cybersecurity,07-12-2019,Not Participated
+S123,Cybersecurity,02-11-2020,Not Participated
+S124,Cybersecurity,25-05-2019,Participated
+S125,Web Development,28-04-2019,Not Participated
+S126,Cybersecurity,13-05-2022,Participated
+S127,Data Science,21-06-2020,Not Participated
+S128,Web Development,12-06-2020,Not Participated
+S129,Cybersecurity,22-05-2024,Not Participated
+S130,Data Science,22-11-2019,Participated
+S131,Cybersecurity,20-11-2020,Participated
+S132,Machine Learning,18-12-2020,Not Participated
+S133,Cybersecurity,06-08-2022,Not Participated
+S134,Machine Learning,09-11-2024,Participated
+S135,Cybersecurity,18-04-2024,Participated
+S136,Cloud Computing,11-01-2020,Not Participated
+S137,Cloud Computing,27-01-2021,Participated
+S138,AI Research,13-05-2019,Not Participated
+S139,Cloud Computing,07-10-2024,Participated
+S140,Cloud Computing,11-04-2024,Not Participated
+S141,Cybersecurity,16-07-2024,Not Participated
+S142,Web Development,15-03-2021,Participated
+S143,Web Development,05-04-2024,Participated
+S144,Machine Learning,18-09-2021,Participated
+S145,Web Development,24-10-2022,Participated
+S146,Data Science,19-07-2021,Participated
+S147,AI Research,08-03-2023,Not Participated
+S148,Cloud Computing,16-02-2019,Participated
+S149,AI Research,28-02-2020,Not Participated
+S150,Data Science,21-03-2024,Participated
+S151,Cloud Computing,14-10-2019,Participated
+S152,Machine Learning,13-07-2023,Not Participated
+S153,Data Science,15-09-2021,Not Participated
+S154,Data Science,18-01-2024,Participated
+S155,AI Research,24-02-2024,Not Participated
+S156,Cybersecurity,18-05-2024,Participated
+S157,AI Research,11-02-2021,Participated
+S158,AI Research,14-03-2022,Participated
+S159,Web Development,01-12-2024,Not Participated
+S160,Data Science,09-09-2020,Not Participated
+S161,AI Research,17-02-2024,Participated
+S162,Data Science,10-11-2023,Participated
+S163,Web Development,20-04-2020,Participated
+S164,Data Science,12-03-2023,Participated
+S165,AI Research,25-09-2019,Not Participated
+S166,Data Science,20-06-2022,Participated
+S167,Cloud Computing,01-02-2021,Participated
+S168,Web Development,27-05-2020,Not Participated
+S169,Cybersecurity,02-04-2023,Not Participated
+S170,Data Science,03-02-2024,Participated
+S171,AI Research,16-02-2023,Not Participated
+S172,Web Development,25-03-2020,Participated
+S173,AI Research,22-08-2023,Participated
+S174,AI Research,06-05-2023,Not Participated
+S175,Data Science,28-10-2022,Participated
+S176,AI Research,07-09-2024,Not Participated
+S177,Data Science,23-04-2024,Participated
+S178,Cybersecurity,10-07-2024,Participated
+S179,Cloud Computing,21-06-2022,Not Participated
+S180,AI Research,17-08-2019,Not Participated
+S181,AI Research,08-04-2019,Not Participated
+S182,AI Research,11-01-2023,Participated
+S183,Machine Learning,18-04-2023,Participated
+S184,Machine Learning,08-01-2019,Participated
+S185,Web Development,23-11-2019,Participated
+S186,Cloud Computing,08-02-2019,Not Participated
+S187,Cloud Computing,28-06-2019,Not Participated
+S188,Machine Learning,17-04-2021,Not Participated
+S189,Web Development,22-08-2020,Participated
+S190,Machine Learning,18-03-2024,Not Participated
+S191,Cybersecurity,19-10-2022,Not Participated
+S192,Web Development,08-08-2022,Not Participated
+S193,Cloud Computing,07-02-2019,Not Participated
+S194,Cloud Computing,22-07-2021,Participated
+S195,Machine Learning,14-07-2022,Participated
+S196,Cybersecurity,28-12-2019,Not Participated
+S197,Machine Learning,22-11-2024,Participated
+S198,Data Science,04-01-2022,Not Participated
+S199,Data Science,24-06-2019,Participated
